@@ -18,37 +18,37 @@ function Home() {
         <li className="list-group-item list-group-item-success">
           <Link to="/prime-numbers">Prime Numbers</Link>
         </li>
-        <li className="list-group-item list-group-item-info">
+        <li className="list-group-item list-group-item-primary">
           <Link to="/multiplication-table">Multiplication Table</Link>
         </li>
-        <li className="list-group-item list-group-item-secondary">
+        <li className="list-group-item list-group-item-warning">
           <Link to="/sum-of-natural-numbers">Sum of Natural Numbers</Link>
         </li>
-        <li className="list-group-item list-group-item-light">
+        <li className="list-group-item list-group-item-success">
           <Link to="/sum-of-digits">Sum of Digits in a String</Link>
         </li>
-        <li className="list-group-item list-group-item-dark">
+        <li className="list-group-item list-group-item-primary">
           <Link to="/check-within-100-500">Check if within 100 to 500</Link>
         </li>
-        <li className="list-group-item list-group-item-primary">
+        <li className="list-group-item list-group-item-warning">
           <Link to="/right-triangle">Right Triangle</Link>
         </li>
-        <li className="list-group-item list-group-item-warning">
+        <li className="list-group-item list-group-item-success">
           <Link to="/triangle">Isosceles Triangle</Link>
         </li>
-        <li className="list-group-item list-group-item-success">
+        <li className="list-group-item list-group-item-primary">
           <Link to="/number-right-triangle">Number Right Triangle</Link>
         </li>
-        <li className="list-group-item list-group-item-info">
+        <li className="list-group-item list-group-item-warning">
           <Link to="/get-largest-number">Get Largest Number</Link>
         </li>
-        <li className="list-group-item list-group-item-secondary">
+        <li className="list-group-item list-group-item-success">
           <Link to="/get-the-number-of-vowels">Number of Vowels</Link>
         </li>
-        <li className="list-group-item list-group-item-light">
+        <li className="list-group-item list-group-item-primary">
           <Link to="/number-triangle">Number Isosceles Triangle</Link>
         </li>
-        <li className="list-group-item list-group-item-dark">
+        <li className="list-group-item list-group-item-warning">
           <Link to="/name-randomizer">Name Randomizer</Link>
         </li>
       </ul>
